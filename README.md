@@ -34,7 +34,7 @@
 
 डोमेन पूछताछ या साझेदारी के अवसरों के लिए: **domains@biggaga.com**
 
-## 🌍 Explore BigGaga Domains in Other Languages
+## 🌍 अन्य भाषाओं में BigGaga डोमेन का अन्वेषण करें
 
 - [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
 - [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
