@@ -44,3 +44,12 @@
 - [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
 - [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
 
+
+## 🌍 Page Links
+
+**रिपॉज़िटरी:** https://github.com/BigGagaCom/biggaga-domains-hi  
+**वेबसाइट:** https://biggagacom.github.io/biggaga-domains-hi/  
+
+- [CSV फ़ाइल](https://biggagacom.github.io/biggaga-domains-hi/domains_hi.csv)  
+- [JSON फ़ाइल](https://biggagacom.github.io/biggaga-domains-hi/domains_hi.json)  
+- [RSS फ़ीड](https://biggagacom.github.io/biggaga-domains-hi/biggaga-domains-full-hi.rss.xml)  
